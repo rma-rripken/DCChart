@@ -1,0 +1,1 @@
+java.exe -jar C:\Programs\DCChart-1.0-SNAPSHOT-jar-with-dependencies.jar
